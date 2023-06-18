@@ -8,8 +8,11 @@ pip install Pybooru
 When first booting the program, it will generate a file named Danbooru.txt. Follow the instructions, here's a copy of what a final copy should look like.
 
 Replace the next line with the donbooru username!
+
 YourDonbooruUsernameHere
+
 Replace the next line with the api key!
+
 YourAPIKeyHere
 
 Hit the enter key to continue the program. It will now generate a TagsWebhooks.txt. Formatting is especially important and must be followed. Here's an example of how a final product should look like.
