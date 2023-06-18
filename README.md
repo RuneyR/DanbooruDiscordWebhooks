@@ -1,6 +1,8 @@
 # DanbooruDiscordWebhooks
 This requires the pip installation of pybooru and discord_webhook onto the host PC. 
+
 pip install discord-webhook
+
 pip install Pybooru
 
 When first booting the program, it will generate a file named Danbooru.txt. Follow the instructions, here's a copy of what a final copy should look like.
