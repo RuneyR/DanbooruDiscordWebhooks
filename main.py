@@ -23,7 +23,7 @@ def set_tag_webhook_info():
 if __name__ == '__main__':
 
     set_client_info()
-    qD.start_loop_query(tW.checkFile(), DANBOORU_USERNAME, API_KEY)
+    qD.start_loop_query(tW.checkFile(), DANBOORU_USERNAME, API_KEY, rT.get_timing_variables())
     sys.exit(0)
 
     # from pybooru import Danbooru
