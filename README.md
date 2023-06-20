@@ -57,6 +57,9 @@ The program will also generate a simple text file named 'FrequencyandAmount.txt'
 An example is written below as follows. Please make sure the 2nd number is below 100 but above 1.
 
 Replace the next line with how frequently you want posts to appear in seconds!
+
 5
+
 Replace the next line with how many images per tag query shall be recieved!
+
 1
