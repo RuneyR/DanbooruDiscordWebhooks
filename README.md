@@ -19,10 +19,12 @@ Hit the enter key to continue the program. It will now generate a TagsWebhooks.t
 
 pink_hairs -vtubers 
 https://discord.com/api/webhooks/111111111222222222233333333/3456425252a34252-234234
+
 END
 
 -pink_hairs vtubers 
 https://discord.com/api/webhooks/111111111222222222233333333/3456425252a34252-234234
+
 END
 
 -pink_hairs -vtubers 
