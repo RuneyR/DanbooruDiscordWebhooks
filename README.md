@@ -40,9 +40,13 @@ END
 The general format is as follows.
 
 Only one line of tags here. They follow the Danbooru style, so you can do a search on the actual website and copy the search.
+
 Your Discord Webhook Linkers go here. You can have 1 or more. 
+
 I would put a 2nd Webhook here, or simply delete this entire line if its only 1.
+
 END
+
 
 Discord Webhooks fit between the tags and the END. So long as you can follow this format, you can add as many tags as you wish.
 
