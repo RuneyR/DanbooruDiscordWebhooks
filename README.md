@@ -18,17 +18,21 @@ YourAPIKeyHere
 Hit the enter key to continue the program. It will now generate a TagsWebhooks.txt. Formatting is especially important and must be followed. Here's an example of how a final product should look like.
 
 pink_hairs -vtubers 
+
 https://discord.com/api/webhooks/111111111222222222233333333/3456425252a34252-234234
 
 END
 
 -pink_hairs vtubers 
+
 https://discord.com/api/webhooks/111111111222222222233333333/3456425252a34252-234234
 
 END
 
 -pink_hairs -vtubers 
+
 https://discord.com/api/webhooks/73567635733/32673657537563
+
 https://discord.com/api/webhooks/2nd3245324134/45134513414124
 
 END
